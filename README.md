@@ -9,7 +9,7 @@ I came across some really neat new (and old) themes / color schemes out there. I
 
 * [Behave](https://github.com/fnky/behave-theme): *A theme that makes you happy like cats on the internet, and Morgan Freeman's sexy voice*.
 
-I can't believe I've never heard of that before - I absolutely love it. Ended up modifying everything based on this.
+I can't believe I've never heard of that before - I absolutely love it. Ended up modifying everything based on this. Just making it more dull and boring (personal preference).
 
 This isn't supposed to be some big thing. Just a **quick and fun little project** to release. Thanks for checking it out.
 
