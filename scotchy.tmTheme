@@ -5,7 +5,7 @@
     <key>comment</key>
     <string>https://scotch.io</string>
     <key>name</key>
-    <string>Spocky Scotch</string>
+    <string>10% Too Dull for My Tastes</string>
     <key>settings</key>
     <array>
         <dict>
@@ -576,10 +576,10 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
+    <string>N96993EB-1A60-4617-92F3-D24D4F13DB69</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
-    <string>theme.dark.behave</string>
+    <string>theme.dark.10PercentTooDullForMyTastes</string>
 </dict>
 </plist>

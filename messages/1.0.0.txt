@@ -1,7 +1,0 @@
-"10% Too Dull for My Tastes" Color Scheme 1.0.0. FIRST RELEASE!
-
-- 90% Perfection
-- 10& Dullness
-- 100% Awesome
-
-Thank you for checking out this Color Scheme. This is a dead-simple fork of https://github.com/fnky/behave-theme with color modifications.
