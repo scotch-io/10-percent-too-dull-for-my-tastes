@@ -1,0 +1,31 @@
+Thanks for installing "10% Too Dull for My Tastes" Sublime Text Color Scheme
+
+This is a fun and awesome theme for people who enjoy simplicity! 
+
+- https://scotch.io/bar-talk/announcing-10-too-dull-for-my-tastes-sublime-text-color-scheme\
+- https://github.com/scotch-io/10-percent-too-dull-for-my-tastes
+
+
+🔥🔥🔥🔥🔥🔥🔥🔥
+🔥HOW TO INSTALL🔥
+🔥🔥🔥🔥🔥🔥🔥🔥
+
+
+METHOD 1
+Go to Preferences => Color Scheme => Search for "scotchy"
+
+METHOD 2
+Open User Settings and add
+```
+"color_scheme": "Packages/10% Too Dull for My Tastes Color Scheme/scotchy.tmTheme",
+```
+
+
+For more info about:
+
+- This color scheme
+- Cursive fonts
+- A good theme to go with it
+- Improving text and other neat things
+
+Check the Github docs: https://github.com/scotch-io/10-percent-too-dull-for-my-tastes
