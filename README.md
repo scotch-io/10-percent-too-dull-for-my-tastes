@@ -91,6 +91,13 @@ Open the `Command Palette` (cmd + shift + p) and search:
 * 10% Too Dull for My Tastes Color Scheme
 
 
+Then add to your user settings:
+
+```
+"color_scheme": "Packages/10% Too Dull for My Tastes Color Scheme/scotchy.tmTheme",
+```
+
+
 ### Manual
 
 Download (or clone) to your Sublime Text's package folder. On Mac located here:
