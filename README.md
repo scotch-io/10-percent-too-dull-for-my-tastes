@@ -1,5 +1,7 @@
 # Announcing "10% Too Dull for My Tastes" Sublime Text Color Scheme
 
+Article: https://scotch.io/bar-talk/announcing-10-too-dull-for-my-tastes-sublime-text-color-scheme
+
 ![](https://cdn.scotch.io/2/MtfjT0UuRQe6zKIC9Bgc_cover-image.gif)
 
 
